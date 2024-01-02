@@ -1,0 +1,8 @@
+{
+"variants": {
+"facing=north": { "model": "hmggirlfront:b_block_416nui" },
+"facing=south": { "model": "hmggirlfront:b_block_416nui" },
+"facing=west": { "model": "hmggirlfront:b_block_416nui" },
+"facing=east": { "model": "hmggirlfront:b_block_416nui" }
+}
+}

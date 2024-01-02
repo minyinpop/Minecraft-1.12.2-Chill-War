@@ -1,0 +1,8 @@
+{
+"variants": {
+"facing=north": { "model": "hmggirlfront:b_block_kalinui" },
+"facing=south": { "model": "hmggirlfront:b_block_kalinui" },
+"facing=west": { "model": "hmggirlfront:b_block_kalinui" },
+"facing=east": { "model": "hmggirlfront:b_block_kalinui" }
+}
+}

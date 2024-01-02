@@ -1,0 +1,8 @@
+{
+"variants": {
+"facing=north": { "model": "hmggirlfront:b_block_gunrack_rsgk" },
+"facing=south": { "model": "hmggirlfront:b_block_gunrack_rsgk" },
+"facing=west": { "model": "hmggirlfront:b_block_gunrack_rsgk" },
+"facing=east": { "model": "hmggirlfront:b_block_gunrack_rsgk" }
+}
+}

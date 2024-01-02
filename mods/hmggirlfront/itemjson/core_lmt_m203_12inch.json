@@ -1,0 +1,6 @@
+{
+"parent": "item/generated",
+"textures": {
+"layer0": "hmggirlfront:items/core/gl/core_lmt_m203_12inch"
+}
+}
